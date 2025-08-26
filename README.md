@@ -17,7 +17,7 @@ Just plug in your API key and base URL, install the dependencies, and run evalua
    ```
 
 3. Download datasets  
-   Download from https://huggingface.co/datasets/MMMU/MMMU/tree/main  
+   Download datasets from https://huggingface.co/datasets/MMMU/MMMU/tree/main  
    Remember set the path of your datasets  
    ```python
    data_files="Computer_Science/validation-00000-of-00001.parquet"

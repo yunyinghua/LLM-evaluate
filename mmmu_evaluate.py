@@ -8,8 +8,8 @@ from tqdm import tqdm
 import pandas as pd
 
 client = openai.OpenAI(
-    api_key="your_api_key",
-    base_url="your_base_url"
+    api_key = "YOUR_API_KEY_HERE",
+    base_url = "https://api.your-provider.com/v1"
 )
 
 def pil_to_base64(img: Image.Image) -> str:
@@ -148,4 +148,5 @@ print("=" * 80)
 print(df_display.to_string(index=False))
 
 df_display.to_csv("evaluation_results.csv", index=False)
+
 print("\nResults saved to evaluation_results.csv")

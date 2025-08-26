@@ -1,7 +1,7 @@
 # LLM-evaluate
 
-A lightweight yet powerful Python script for benchmarking large language models.  
-Just plug in your API key and base URL, install the dependencies, and run evaluations against any dataset placed in the `dataset/` folder.
+A script for benchmarking large language models.  
+Just plug in your API key and base URL, install the dependencies, and run evaluations against any dataset.
 
 ## Start
 

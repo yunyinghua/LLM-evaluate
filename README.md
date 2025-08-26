@@ -1,7 +1,7 @@
 # LLM-evaluate
 
 A script for benchmarking vision language models.  
-Just plug in your API key and base URL, install the dependencies, and run evaluations against any dataset.
+Just plugin your API key and base URL, install the dependencies, and run evaluations against any dataset.
 
 ## Start
 
